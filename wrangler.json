@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tiny-shadow-c8fb",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1f46ba74-a25b-430a-925a-05a0bc109d5a",
+      "database_name": "tiny-shadow-c8fb-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
